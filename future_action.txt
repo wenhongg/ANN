@@ -1,0 +1,8 @@
+Future action for this basic ANN:
+1. GUI
+- Partition data
+- Selecting dropout regularization, or not
+- Selecting activation function*
+
+2. Bias
+- Inclusion of bias term

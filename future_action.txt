@@ -6,3 +6,5 @@ Future action for this basic ANN:
 
 2. Bias
 - Inclusion of bias term
+
+3. Saving and loading network model
